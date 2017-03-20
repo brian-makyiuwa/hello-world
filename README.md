@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi All! 
+
+Brian Here, I like to learn mobile and web technologies
